@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991230475403",
+    "firebase_url": "https://travelistica-8f44d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "travelistica-8f44d",
+    "storage_bucket": "travelistica-8f44d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991230475403:android:7eefa3371ce914bb79e88e",
+        "android_client_info": {
+          "package_name": "com.example.travelistica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991230475403-i48n1ub3sin7d79i6755khb32m06r8bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eBP-1mKS7aMlW953Mv-6dqHEAcGDqxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991230475403-i48n1ub3sin7d79i6755khb32m06r8bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

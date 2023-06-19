@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <item android:title="Landmark Filter " >
+        <menu>
+
+            <item
+                android:id="@+id/nav_option1"
+                android:icon="@drawable/hospital"
+                android:title="Hospitals" />
+                <item android:id="@+id/nav_option2"
+                    android:icon="@drawable/school"
+                    android:title="Schools" />
+                <item android:id="@+id/nav_option3"
+                    android:icon="@drawable/restaurant"
+                    android:title="Restaurants"
+                    />
+                <item android:id="@+id/nav_option4"
+                    android:icon="@drawable/attractions"
+                    android:title="Touristic Attractions"
+                    />
+                <item android:id="@+id/nav_option5"
+                    android:icon="@drawable/zoo"
+                    android:title="Zoos"
+                    />
+                <item android:id="@+id/nav_option6"
+                    android:icon="@drawable/aquarium"
+                    android:title="Aquariums"
+
+                    />
+                <item android:id="@+id/nav_option7"
+                    android:icon="@drawable/church"
+                    android:title="Churches"
+                    />
+                <item android:id="@+id/nav_option8"
+                    android:icon="@drawable/museum"
+                    android:title="Museum"
+                    />
+            <item android:id="@+id/nav_option9"
+                android:icon="@drawable/art_gallery"
+                android:title="Art Galleries"
+                />
+            <item android:id="@+id/nav_option10"
+                android:icon="@drawable/amusement_park"
+                android:title="Amusement Parks"
+                />
+            <item android:id="@+id/nav_option11"
+                android:icon="@drawable/movie"
+                android:title="Cinemas"
+                />
+
+        </menu>
+    </item>
+    <item android:title="System" >
+        <menu>
+             <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+        </menu>
+    </item>
+</menu>
